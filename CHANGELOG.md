@@ -1,3 +1,7 @@
+
+## 0.3.18 (November 17, 2025)
+* Add `key_material_base64` parameter for base64-encoded private keys
+
 ## 0.3.0 (Unreleased)
 ## 0.2.0 (June 24, 2019)
 
